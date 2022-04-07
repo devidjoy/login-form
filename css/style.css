@@ -1,0 +1,20 @@
+h1{
+    color: brown;
+    text-align: center;
+    font-size: 50px;
+}
+body{
+    background:black;
+}
+.main{
+    background:orange;
+	width:300px;
+	padding:80px;
+	margin:auto;
+	overflow:hidden;
+     
+}	
+input{
+    color:rgb(18, 18, 239);
+   
+}
